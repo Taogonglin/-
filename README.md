@@ -1,6 +1,4 @@
-# 2022暑假生产实习SSM+VUE项目——智慧校园服务平台前端部分
-
-> [后端部分 Click Here](https://github.com/Blizzard-cyber/winsdom_school_back)
+#校园服务平台
 
 
 ## 项目介绍：
@@ -15,7 +13,7 @@
 
 - 脚手架：Vue-cli (Vue2)
 - UI组件：Element-UI+View UI
-- 后端框架：SSM
+- 后端框架：Springboot
 - 数据库：Mysql
 - 接口测试：Postman
 - 路由：vue-router
@@ -33,13 +31,6 @@
 - [x] 页面路由配置
 - [ ] ..........
 
-## 食用指南
-
-- ### 前端项目启动之前请先启动后端！！！
-
-- ### 使用前先将数据库数据导入！
-
-- ### 使用前需要配置Marven、Tomcat、Node环境！
 
 ## Build Setup
 
